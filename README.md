@@ -27,10 +27,6 @@ This project was built to demonstrate the advanced capabilities of the CodeNut p
 
 ---
 
-
-
----
-
 ### Technology Stack
 * **Core Platform:** CodeNut.ai
 * **Smart Contracts:** Solidity
